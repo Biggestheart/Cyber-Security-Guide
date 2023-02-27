@@ -1,4 +1,4 @@
-##Cybersecurity Guides##
+##*CYBERSECURITY GUIDES*##
 
 Welcome to the ultimate guide on how to avoid becoming the next headline in a cyber attack! I've got everything you need to protect yourself from the world's most notorious hackers, spammers, and scammers (no, not your ex).
 
